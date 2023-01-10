@@ -1,0 +1,14 @@
+.header {
+  background: #669999;
+  height: 150px;
+}
+
+.header h1 {
+  margin: 0;
+  padding: 20px;
+  padding-top: 30px;
+  text-align: left;
+  color: #1f2d53;
+  font-family: "Inspiration", cursive;
+  font-size: 4rem;
+}
