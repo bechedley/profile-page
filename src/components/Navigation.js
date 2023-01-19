@@ -9,7 +9,7 @@ function Navigation({ currentPage, handlePageChange }) {
           href="#about"
           onClick={() => handlePageChange('About')}
           // If current page is About, set the current page to 'nav-link-active', otherwise set it to 'nav-link'
-          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'About' ? 'page-active' : 'nav-item'}
         >
           ABOUT ME
         </a>
@@ -18,7 +18,7 @@ function Navigation({ currentPage, handlePageChange }) {
         <a
           href="#portfolio"
           onClick={() => handlePageChange('Portfolio')}
-          className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Portfolio' ? 'page-active' : 'nav-item'}
         >
           PORTFOLIO
         </a>
@@ -27,7 +27,7 @@ function Navigation({ currentPage, handlePageChange }) {
         <a
           href="#resume"
           onClick={() => handlePageChange('Resume')}
-          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Resume' ? 'page-active' : 'nav-item'}
         >
           RESUME
         </a>
@@ -36,7 +36,7 @@ function Navigation({ currentPage, handlePageChange }) {
         <a
           href="#contact"
           onClick={() => handlePageChange('Contact')}
-          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Contact' ? 'page-active' : 'nav-item'}
         >
           CONTACT
         </a>

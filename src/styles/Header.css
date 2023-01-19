@@ -11,3 +11,9 @@
   font-family: "Inspiration", cursive;
   font-size: 4rem;
 }
+
+@media screen and (max-width: 900px) {
+  .header h1 {
+      font-size: 2.5rem;
+  }
+}
