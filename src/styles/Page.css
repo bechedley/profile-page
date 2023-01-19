@@ -20,3 +20,28 @@
 .page img {
     max-width: 10%;
 }
+
+.page form {
+    font-family: "Quicksand", sans-serif;
+    padding: 20px;
+}
+
+.page button {
+    padding: 10px;
+    margin: 10px;
+    background-color: #669999;
+    color: white;
+}
+
+.page button:hover {
+    background-color: #1f2d53;
+    color: white;
+}
+
+.formbox {
+    margin-bottom: 10px;
+}
+
+#message-area {
+    height: 100px;
+}

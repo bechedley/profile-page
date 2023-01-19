@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Navigation from './Navigation';
 import About from './pages/About';
+import Contact from './pages/Contact';
 import '../styles/Header.css';
 
 export default function Header() {
@@ -10,6 +11,8 @@ export default function Header() {
   const renderPage = () => {
     if (currentPage === 'About') {
       return <About />;
+    } else if (currentPage === 'Contact') {
+      return <Contact />;
     }
   };
 
