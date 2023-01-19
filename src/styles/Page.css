@@ -1,0 +1,22 @@
+.page {
+    text-align: center;
+    padding: 30px;
+}
+
+.page h1 {
+    color: #1f2d53;
+    font-family: "Satisfy", cursive;
+    font-size: 3rem;
+}
+
+.page p {
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #1f2d53;
+    font-family: "Quicksand", sans-serif;
+}
+
+.page img {
+    max-width: 10%;
+}
