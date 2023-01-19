@@ -1,0 +1,14 @@
+.nav {
+    padding-right: 20px;
+}
+
+.nav-item a {
+    color: white;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.nav-link:active {
+    color: #1f2d53;
+}
