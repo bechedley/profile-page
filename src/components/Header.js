@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Navigation from './Navigation';
 import About from './pages/About';
 import Contact from './pages/Contact';
+import Resume from './pages/Resume';
 import '../styles/Header.css';
 
 export default function Header() {
@@ -13,6 +14,8 @@ export default function Header() {
       return <About />;
     } else if (currentPage === 'Contact') {
       return <Contact />;
+    } else if (currentPage === 'Resume') {
+      return <Resume />;
     }
   };
 

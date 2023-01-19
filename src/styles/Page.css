@@ -9,12 +9,25 @@
     font-size: 3rem;
 }
 
+.page h3 {
+    color: #1f2d53;
+    font-family: "Satisfy", cursive;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
 .page p {
     padding-top: 20px;
     padding-left: 50px;
     padding-right: 50px;
     color: #1f2d53;
     font-family: "Quicksand", sans-serif;
+}
+
+.page li {
+    color: #1f2d53;
+    font-family: "Quicksand", sans-serif;
+    text-align: left;
 }
 
 .page img {
