@@ -1,0 +1,9 @@
+.footer {
+    background: #669999;
+    height: 100px;
+  }
+
+.footer img {
+    padding-left: 5px;
+    padding-right: 5px;
+}
