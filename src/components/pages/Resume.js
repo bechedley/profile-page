@@ -1,6 +1,7 @@
 import React from 'react';
 import '../../styles/Page.css';
 import iconGif from '../../assets/images/web-dev-icons-gif.gif'
+import resumeDownload from '../../assets/files/web-dev-resume-rhedley.pdf'
 
 export default function Resume() {
     return (
@@ -8,7 +9,7 @@ export default function Resume() {
             <h1>Resume</h1>
             <p>Click the link below to download a copy of my resume.
             </p>
-            <a href="./files/web-dev-resume-rhedley.pdf" download>DOWNLOAD MY RESUME</a>
+            <a href={resumeDownload} download>DOWNLOAD MY RESUME</a>
             <div className='icon-top'>
             <img src={iconGif} title="Icons of tech proficiencies" alt="icons of tech proficiencies" />
             </div>
