@@ -12,7 +12,7 @@ N/A
 
 Click through the profile pages to view information about me, a showcase of my recent projects, a downloadable link to my resume, and a contact page to get in touch. Click the name of any project in the portfolio to be taken to the deployed URL of that project, or click the Github icon to open a new tab to that project's repo.
 
-Deployed URL: (#)
+Deployed URL: (https://bechedley.github.io/profile-page/)
 
 ![Screenshot of profile portfolio page](./src/assets/images/profile-screenshot-portfolio.png)
 ![Screenshot of profile resume page](./src/assets/images/portfolio-screenshot-resume.png)
