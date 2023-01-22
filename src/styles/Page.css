@@ -3,10 +3,23 @@
     padding: 30px;
 }
 
+.page a {
+    color: #669999;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 400;
+}
+
 .page h1 {
     color: #1f2d53;
     font-family: "Satisfy", cursive;
     font-size: 3rem;
+}
+
+.page h3 {
+    color: #1f2d53;
+    font-family: "Satisfy", cursive;
+    font-size: 1.5rem;
+    text-align: left;
 }
 
 .page p {
@@ -15,6 +28,13 @@
     padding-right: 50px;
     color: #1f2d53;
     font-family: "Quicksand", sans-serif;
+}
+
+.page li {
+    color: #1f2d53;
+    font-family: "Quicksand", sans-serif;
+    text-align: left;
+    margin-left: 10px;
 }
 
 .page img {
@@ -38,8 +58,16 @@
     color: white;
 }
 
+.page-box {
+    margin: 30px;
+}
+
 .formbox {
     margin-bottom: 10px;
+}
+
+.icon-top {
+    margin: 20px;
 }
 
 #message-area {
