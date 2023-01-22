@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Week 20: React Profile Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+This profile page is built using React to showcase my portfolio, resume and projects.
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+N/A
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Click through the profile pages to view information about me, a showcase of my recent projects, a downloadable link to my resume, and a contact page to get in touch. Click the name of any project in the portfolio to be taken to the deployed URL of that project, or click the Github icon to open a new tab to that project's repo.
 
-### `npm test`
+Deployed URL: (#)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot of profile portfolio page](./src/assets/images/profile-screenshot-portfolio.png)
+![Screenshot of profile resume page](./src/assets/images/portfolio-screenshot-resume.png)
 
-### `npm run build`
+## Credits
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The following resources were referenced to ensure best practice and adherence to appropriate conventions:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+'Deploying a Create React App to GitHub' by Create React App: (https://create-react-app.dev/docs/deployment/#github-pages)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Google Fonts: (https://fonts.google.com/)
 
-### `npm run eject`
+Bootstrap CSS Documentation: (https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+'How to Link an Image in React' by Coding Beauty: (https://codingbeautydev.com/blog/react-link-image/#:~:text=To%20link%20a%20local%20image,prop%20of%20an%20img%20element.&text=Linking%20and%20displaying%20an%20image,tool%20like%20Create%20React%20App.)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+'The difference between onBlur vs onChange for React text inputs' by Linguine Code: (https://linguinecode.com/post/onblur-vs-onchange-react-text-inputs)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+'Regular Expression - Only first character check non-letter characters' via Stack Overflow, answer by Trenton Trama: (https://stackoverflow.com/questions/19821572/regular-expression-only-first-character-check-non-letter-characters)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+'How to download a local file in Reactjs via Stack Overflow', answer by Belhadjer Samir: (https://stackoverflow.com/questions/66198311/how-to-download-a-local-file-in-reactjs)
 
-## Learn More
+Icons for technology proficiencies gif via Simple Icons: (https://simpleicons.org/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+'How to Set a Background Image in React From Your /src Folder' by Free Code Camp: (https://www.freecodecamp.org/news/react-background-image-tutorial-how-to-set-backgroundimage-with-inline-css-style/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+'Setting a backgroundImage With React Inline Styles' via Stack Overflow, answer by Pavindu and Hitesh Sahu: (https://stackoverflow.com/questions/39195687/setting-a-backgroundimage-with-react-inline-styles)
 
-### Code Splitting
+Common js functions and parameters, for loops and arrays: JS CheatSheet by HTML CheatSheet (https://htmlcheatsheet.com/js/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Licensed under the standard MIT license. Please refer to the license in the repo for more information.
