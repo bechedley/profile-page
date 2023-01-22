@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../styles/Page.css';
 import iconGif from '../../assets/images/web-dev-icons-gif.gif'
-import resumeDownload from '../../assets/files/web-dev-resume-rhedley.pdf'
+import resumeDownload from '%PUBLIC_URL%/files/web-dev-resume-rhedley.pdf'
 
 export default function Resume() {
     return (
