@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/profile-page/static/css/main.42b1b13a.css",
-    "main.js": "/profile-page/static/js/main.823aa591.js",
+    "main.js": "/profile-page/static/js/main.b3ab8528.js",
     "static/media/profile-round.png": "/profile-page/static/media/profile-round.211b147577b605ac3677.png",
     "static/media/web-dev-icons-gif.gif": "/profile-page/static/media/web-dev-icons-gif.23f012054ce28d9b4f6d.gif",
+    "static/media/web-dev-resume-rhedley.pdf": "/profile-page/static/media/web-dev-resume-rhedley.50f514324707953f4ae0.pdf",
     "static/media/react-portfolio-project-weather.png": "/profile-page/static/media/react-portfolio-project-weather.fa53bd9e939790b52100.png",
     "static/media/react-portfolio-project-blog.png": "/profile-page/static/media/react-portfolio-project-blog.a16487b665a4cefcfd53.png",
     "static/media/react-portfolio-project-quiz.png": "/profile-page/static/media/react-portfolio-project-quiz.67e8538f4674e6dcbfbb.png",
@@ -15,10 +16,10 @@
     "index.html": "/profile-page/index.html",
     "static/media/stack-icon-blue.svg": "/profile-page/static/media/stack-icon-blue.863685fa207e49fdcba4fdc739b0b365.svg",
     "main.42b1b13a.css.map": "/profile-page/static/css/main.42b1b13a.css.map",
-    "main.823aa591.js.map": "/profile-page/static/js/main.823aa591.js.map"
+    "main.b3ab8528.js.map": "/profile-page/static/js/main.b3ab8528.js.map"
   },
   "entrypoints": [
     "static/css/main.42b1b13a.css",
-    "static/js/main.823aa591.js"
+    "static/js/main.b3ab8528.js"
   ]
 }
