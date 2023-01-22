@@ -6,7 +6,7 @@ function Project(props) {
 
     return (
         <div className='col-auto'>
-        <div className="project card" style={{
+        <div className="project" style={{
             backgroundImage: `url(${props.img})`,
             backgroundPosition: 'center',
             backgroundSize: 'cover',
