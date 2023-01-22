@@ -67,7 +67,7 @@ function Contact() {
     <div className='page'>
       <h1>Contact Me</h1>
       <p>Complete the form below to get in touch</p>
-      <form className="form form-control">
+      <form className="form form-control" action="mailto:rebeccakatehedley@gmail.com">
         <input
           value={name}
           name="name"

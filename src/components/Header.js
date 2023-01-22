@@ -3,6 +3,7 @@ import Navigation from './Navigation';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
+import Portfolio from './pages/Portfolio';
 import '../styles/Header.css';
 
 export default function Header() {
@@ -16,6 +17,8 @@ export default function Header() {
       return <Contact />;
     } else if (currentPage === 'Resume') {
       return <Resume />;
+    } else if (currentPage === 'Portfolio') {
+      return <Portfolio />;
     }
   };
 
