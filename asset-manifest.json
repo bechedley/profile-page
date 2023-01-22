@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile-page/static/css/main.42b1b13a.css",
+    "main.js": "/profile-page/static/js/main.823aa591.js",
+    "static/media/profile-round.png": "/profile-page/static/media/profile-round.211b147577b605ac3677.png",
+    "static/media/web-dev-icons-gif.gif": "/profile-page/static/media/web-dev-icons-gif.23f012054ce28d9b4f6d.gif",
+    "static/media/react-portfolio-project-weather.png": "/profile-page/static/media/react-portfolio-project-weather.fa53bd9e939790b52100.png",
+    "static/media/react-portfolio-project-blog.png": "/profile-page/static/media/react-portfolio-project-blog.a16487b665a4cefcfd53.png",
+    "static/media/react-portfolio-project-quiz.png": "/profile-page/static/media/react-portfolio-project-quiz.67e8538f4674e6dcbfbb.png",
+    "static/media/react-portfolio-project-scheduler.png": "/profile-page/static/media/react-portfolio-project-scheduler.09b809f1ca67202004c5.png",
+    "static/media/react-portfolio-project-notes.png": "/profile-page/static/media/react-portfolio-project-notes.5dd9028a72f85d6ba83f.png",
+    "static/media/react-portfolio-project-jate.png": "/profile-page/static/media/react-portfolio-project-jate.0b6eebcfe10a860881d4.png",
+    "static/media/github-icon-blue.svg": "/profile-page/static/media/github-icon-blue.0b07496d1227a49ddd865502be3e2949.svg",
+    "static/media/linkedin-icon-blue.svg": "/profile-page/static/media/linkedin-icon-blue.b4e428baf0a807c5cbda4aa45a81b4d0.svg",
+    "index.html": "/profile-page/index.html",
+    "static/media/stack-icon-blue.svg": "/profile-page/static/media/stack-icon-blue.863685fa207e49fdcba4fdc739b0b365.svg",
+    "main.42b1b13a.css.map": "/profile-page/static/css/main.42b1b13a.css.map",
+    "main.823aa591.js.map": "/profile-page/static/js/main.823aa591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b1b13a.css",
+    "static/js/main.823aa591.js"
+  ]
+}
